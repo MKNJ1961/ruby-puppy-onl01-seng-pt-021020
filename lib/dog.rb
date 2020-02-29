@@ -14,8 +14,8 @@ class Dog
     @@all.each
   end
 
-  def clear.all
-    @@all.each
-  end
+  # def clear.all
+  #   @@all.each
+  # end
 
 end
