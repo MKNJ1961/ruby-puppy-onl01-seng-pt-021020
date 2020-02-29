@@ -19,7 +19,7 @@ class Dog
     @@all.clear
   end
 
-  def print_all
+  def print_all(name)
     self.print_all {|name| dog.name ==name}
 
   end
