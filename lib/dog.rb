@@ -18,6 +18,10 @@ class Dog
     @@all.clear
   end
 
+  def slef.print_all
+    @@print_all
+  end
+
 
 
 
