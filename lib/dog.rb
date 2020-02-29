@@ -21,7 +21,7 @@ class Dog
 
   def print_all
     self.print_all {|name| dog.name ==name}
-    
+
   end
 
 end
