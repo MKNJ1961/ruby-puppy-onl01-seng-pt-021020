@@ -14,6 +14,7 @@ class Dog
     @@all.each
   end
 
-  def clear.all? { |@@all.each|  }
+  def clear.all
+    @@all.each
 
 end
