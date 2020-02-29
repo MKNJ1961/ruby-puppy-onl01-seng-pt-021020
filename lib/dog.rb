@@ -16,5 +16,6 @@ class Dog
 
   def clear.all
     @@all.each
+  end
 
 end
